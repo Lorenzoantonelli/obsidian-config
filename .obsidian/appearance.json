@@ -1,0 +1,14 @@
+{
+  "accentColor": "#246c84",
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "center",
+    "banner-image",
+    "color-banner",
+    "blue-banner"
+  ]
+}

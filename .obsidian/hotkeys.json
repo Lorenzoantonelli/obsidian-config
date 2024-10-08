@@ -1,0 +1,11 @@
+{
+  "workspace:export-pdf": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
+}
